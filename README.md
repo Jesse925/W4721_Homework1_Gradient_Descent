@@ -1,1 +1,1 @@
-# W4721_homework1_-gradient_descent
+# W4721 Homework1: Gradient Descent
